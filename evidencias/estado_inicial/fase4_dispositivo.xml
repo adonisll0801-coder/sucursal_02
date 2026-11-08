@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" message-id="urn:uuid:91008809-e9cd-45ff-a591-e9efe4928d02" xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0"><data><native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native"><version>17.3</version><hostname>R-SUC-02</hostname></native></data></rpc-reply>
