@@ -1,0 +1,32 @@
+=== Validacion de R-SUC-02 contra el YAML ===
+
+--- VLAN 10 (GigabitEthernet2.10) ---
+CUMPLE     Subinterfaz 2.10
+CUMPLE     Encapsulacion 802.1Q
+CUMPLE     Direccion IP / gateway
+CUMPLE     Mascara
+CUMPLE     Estado administrativo
+CUMPLE     Estado operativo
+
+--- VLAN 20 (GigabitEthernet2.20) ---
+CUMPLE     Subinterfaz 2.20
+CUMPLE     Encapsulacion 802.1Q
+CUMPLE     Direccion IP / gateway
+CUMPLE     Mascara
+CUMPLE     Estado administrativo
+CUMPLE     Estado operativo
+
+--- VLAN 99 (GigabitEthernet2.99) ---
+CUMPLE     Subinterfaz 2.99
+CUMPLE     Encapsulacion 802.1Q
+CUMPLE     Direccion IP / gateway
+CUMPLE     Mascara
+CUMPLE     Estado administrativo
+CUMPLE     Estado operativo
+
+--- Interfaces programables y administracion ---
+CUMPLE     RESTCONF disponible (HTTPS 443)
+CUMPLE     NETCONF disponible (SSH 830)
+CUMPLE     Conectividad de administracion (ping 192.168.16.10)
+
+RESULTADO GENERAL: CUMPLE
